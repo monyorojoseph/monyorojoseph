@@ -16,7 +16,8 @@
 <p align="left"> 
 <!--   <a href="https://www.linkedin.com/in/abdel-haleem-osama-0870a81ba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>  -->
   <a href="mailto:monyorojoseph@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> </p>
- ###  Skills
+  
+###  Skills
 
 - Full Stack Web Development
 - Mobile Development
