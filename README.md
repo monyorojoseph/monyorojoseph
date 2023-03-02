@@ -5,8 +5,6 @@
   Hi there 👋 I'm Joseph Monyoro
 </h2>
 
-<hr/>
-
 ###  Skills
 
 - Full Stack Web Development
