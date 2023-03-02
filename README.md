@@ -5,10 +5,6 @@
   Hi there 👋 I'm Joseph Monyoro
 </h2>
 
-###  Skills
-
-- Full Stack Web Development
-- Mobile Development
 
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 
@@ -20,8 +16,12 @@
 <p align="left"> 
 <!--   <a href="https://www.linkedin.com/in/abdel-haleem-osama-0870a81ba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>  -->
   <a href="mailto:monyorojoseph@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> </p>
+ ###  Skills
 
-<h2 align="left">Languages & Frameworks & Tools</h2><br>
+- Full Stack Web Development
+- Mobile Development
+
+### Languages & Frameworks & Tools
 <p align="left">
 <code><img title="Python" height="25" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></code>
 <code><img title="Typescript" height="25" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></code>
