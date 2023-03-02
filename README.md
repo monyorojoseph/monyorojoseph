@@ -8,8 +8,8 @@
 
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 
-- 🌱 I’m currently learning Data science
-- 👯 I’m looking to collaborate on Data science projects and Devops.
+- 🌱 I’m currently learning Data science and Devops,
+- 👯 I’m looking to collaborate on Data science projects.
 - 💬 Ask me about anything in Python, Typescript, Dart.
 - 📫 How to reach me: 
 
