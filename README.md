@@ -1,22 +1,22 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=monyorojoseph/monyorojoseph" alt="HalemoGPA"> 
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=monyorojoseph/monyorojoseph" alt="HalemoGPA">  -->
 
 
-<h2 align="center">
+<!-- <h2 align="center">
   Hi there 👋 I'm Joseph Monyoro
-</h2>
+</h2> -->
 
 
-###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
-
-- 🌱 I’m currently learning Data science and Devops,
+<!-- ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me: -->
+- Hi there 👋 I'm Joseph Monyoro
+- 🌱 I’m currently learning Data science.
 - 👯 I’m looking to collaborate on Data science projects.
 - 💬 Ask me about anything in Python, Typescript, Dart.
-- 📫 How to reach me: 
+- 📫 How to reach me:
 
 <p align="left"> 
 <!--   <a href="https://www.linkedin.com/in/abdel-haleem-osama-0870a81ba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a>  -->
   <a href="mailto:monyorojoseph@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> </p>
-  
+<!--   
 ###  Skills
 
 - Full Stack Web Development
@@ -32,7 +32,7 @@
 <code><img title="Flutter" height="25" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></code>
 <code><img title="Next js" height="25" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></code>
 <code><img title="Postgres" height="25" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></code>
-</p>
+</p> -->
 <!--
 **monyorojoseph/monyorojoseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
